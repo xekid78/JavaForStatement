@@ -1,4 +1,4 @@
-# Java_SampleCode7
+# JavaSampleCode7
 for文
 
 #### 処理
