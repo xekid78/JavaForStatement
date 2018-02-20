@@ -8,17 +8,18 @@ for文
 ```
 public class sample7 {
 
-	public static void main(String[] args) {
-		for (int i = 1; i <= 12; i++) {
-			System.out.println(i + "月");
-		}
+  public static void main(String[] args) {
+    for (int i = 1; i <= 12; i++) {
+      System.out.println(i + "月");
+    }
 
-	}
+  }
 
 }
 ```
 
 ## 出力結果
+```
 1月  
 2月  
 3月  
@@ -30,7 +31,8 @@ public class sample7 {
 9月  
 10月  
 11月  
-12月  
+12月
+```
   
 ## 開発環境
 | 開発ツール |  |
